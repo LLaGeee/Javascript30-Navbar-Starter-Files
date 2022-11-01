@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(243, 238, 231);
+}
+
+p{
+    color: gray;
+}
+
+button{
+    background-color: rgb(3, 53, 3);
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5%;
+    color: white;
+}
+
+.header{
+    display: grid;
+}
+
+.second-half-title{
+    color: rgb(242, 194, 73);
+}
+
+img{
+    object-position: right;
+}
+
+.footer{
+    text-align: center;
+}
+
+.logos{
+    display: inline;
+    padding: 1.3rem;
+}
