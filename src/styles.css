@@ -20,13 +20,21 @@ li{
 
 .navbar{
     display: flex;
-    justify-content: center;
   align-items: center;
+  margin: 0 0 5rem 0;
+    justify-content: space-between;
 }
 
-.logo{
-    object-position: left;
+.sign-in{
+    display: flex;
+    gap: 1.3rem;
 }
+
+.navbar ul, .sign-in{
+    cursor: pointer;
+}
+
+
 
 .btn{
     background-color: rgb(3, 53, 3);
